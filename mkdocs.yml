@@ -1,0 +1,5 @@
+site_name: Jonathan Lu
+pages:
+- Home: index.md
+- About: about.md
+theme: yeti
